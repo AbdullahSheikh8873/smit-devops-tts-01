@@ -1,0 +1,46 @@
+{
+    "server1": {
+        "id": 1,
+        "name": "webserver",
+        "ip": "192.168.18.10",
+        "status": "stopped",
+        "users": [
+            "Abdullah",
+            "Momin",
+            "Mehdi"
+        ]
+    },
+     "server2": {
+        "id": 1,
+        "name": "webserver",
+        "ip": "192.168.18.10",
+        "status": "stopped",
+        "users": [
+            "Abdullah",
+            "Momin",
+            "Mehdi"
+        ]
+    },
+     "server3": {
+        "id": 1,
+        "name": "webserver",
+        "ip": "192.168.18.10",
+        "status": "stopped",
+        "users": [
+            "Abdullah",
+            "Momin",
+            "Mehdi"
+        ]
+    },
+     "server4": {
+        "id": 1,
+        "name": "webserver",
+        "ip": "192.168.18.10",
+        "status": "stopped",
+        "users": [
+            "Abdullah",
+            "Momin",
+            "Mehdi"
+        ]
+    }
+}
